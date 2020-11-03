@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://image.freepik.com/vector-gratis/banner-isometrico-almacenamiento-nube-tecnologia-digital_107791-610.jpg" height="175px"/></a>
+<!--<a href="#"><img width="100%" height="auto" src="https://image.freepik.com/vector-gratis/banner-isometrico-almacenamiento-nube-tecnologia-digital_107791-610.jpg" height="175px"/></a>
 
 ## Hi there 👋, I´m Diego Calderon.
 
