@@ -1,4 +1,4 @@
-<!--<a href="#"><img width="100%" height="auto" src="https://img2.freepng.es/20190214/rpa/kisspng-clip-art-customer-service-call-centre-onlinelabels-clip-art-customer-servicr-5c6553acf0b556.119213961550144428986.jpg" height="175px"/></a>-->
+<a href="#"><img width="20%" height="auto" src="https://pp.netclipart.com/pp/s/14-143019_outsourcing-clipart-information-technology-analista-de-calidad-call.png" height="175px"/></a>
 
 ## Hi there 👋, I´m Diego Calderon.
 
